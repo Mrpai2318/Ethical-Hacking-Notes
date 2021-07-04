@@ -8,14 +8,14 @@ Protocols are the set of rules and regulations that device follow to transfer an
 
 It has 4 layers to it as follows:-
 
-4. Application Layer:-  It encodes and encrypts the data so that the computer can understand it and then it creates sessions. Sessions are used to establish comunication between 2 devices. It involves signalling to setup and manage communication between two devices. Eg: Brower
+4th Application Layer:-  It encodes and encrypts the data so that the computer can understand it and then it creates sessions. Sessions are used to establish comunication between 2 devices. It involves signalling to setup and manage communication between two devices. Eg: Brower
 Protocols are FTP, HTTP/HTTPS, Telnet
 
-3. Transport Layer:- It adds port number. Protocols are TCP & UDP
+3rd Transport Layer:- It adds port number. Protocols are TCP & UDP
 
-2. Network Layer:- It adds senders and receivers address on the data packet. It handles IP addressing, routing and virtual pathing. It adds MAC address of the client and the server to the data packet. Protocols are DHCP, ARP, ICMP.
+2md Network Layer:- It adds senders and receivers address on the data packet. It handles IP addressing, routing and virtual pathing. It adds MAC address of the client and the server to the data packet. Protocols are DHCP, ARP, ICMP.
 
-1. Physical Layer:- This is where the binary data is coneverted into electrical signals for data transfer. It also checks itself for errors. Eg: Wifi adapter, Protocols are Ethernet, 802.11, DSL.
+1st Physical Layer:- This is where the binary data is coneverted into electrical signals for data transfer. It also checks itself for errors. Eg: Wifi adapter, Protocols are Ethernet, 802.11, DSL.
 
 ## TCP/IP Stack
 ![f631014aad9f32de6ae1abe7afb659f2.png](https://github.com/Mrpai2318/Ethical-Hacking-Notes/blob/main/_resources/97906de8eecd4193996e3500b07d2698.png)
