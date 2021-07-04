@@ -1,10 +1,10 @@
-Protocols, TCP/IP and OSI Model
+### Protocols, TCP/IP and OSI Model
 
 ## What are Protocols?
 Protocols are the set of rules and regulations that device follow to transfer and recieve data over a wired or wireless medium.
 
 ## TCP/IP Model
-![094f9328dd94980ca6cf2418d57c90e2.png](../_resources/8b7d70fdbb19489eba0bf6fa5a805e31.png)
+![094f9328dd94980ca6cf2418d57c90e2.png](https://github.com/Mrpai2318/Ethical-Hacking-Notes/blob/main/_resources/8b7d70fdbb19489eba0bf6fa5a805e31.png)
 
 It has 4 layers to it as follows:-
 4. Application Layer:-  It encodes and encrypts the data so that the computer can understand it and then it creates sessions. Sessions are used to establish comunication between 2 devices. It involves signalling to setup and manage communication between two devices. Eg: Brower
@@ -14,18 +14,18 @@ Protocols are FTP, HTTP/HTTPS, Telnet
 1.Physical Layer:- This is where the binary data is coneverted into electrical signals for data transfer. It also checks itself for errors. Eg: Wifi adapter, Protocols are Ethernet, 802.11, DSL.
 
 ## TCP/IP Stack
-![f631014aad9f32de6ae1abe7afb659f2.png](../_resources/97906de8eecd4193996e3500b07d2698.png)
+![f631014aad9f32de6ae1abe7afb659f2.png](https://github.com/Mrpai2318/Ethical-Hacking-Notes/blob/main/_resources/97906de8eecd4193996e3500b07d2698.png)
 
 ## TCP/UDP & IP Protocols
 TCP(Transmission Control Protocol)
 UDP (User Datagram Protocol)
 Differences betwen TCP & UDP are:-
-![2d5356134ff8b588aaeadfd5c05de9fc.png](../_resources/45543de1e9054e6e9de3db4a98cf3578.png)
+![2d5356134ff8b588aaeadfd5c05de9fc.png](https://github.com/Mrpai2318/Ethical-Hacking-Notes/blob/main/_resources/97906de8eecd4193996e3500b07d2698.png)
 
 IP(Internet Protocol)
 DHCP(Dynamic Host Configuration Protocol)
 
-![f3c8c8ef7eddeba4351e25682850eb46.png](../_resources/c8fa1a57fd674a9fb11ea75f7b73ccd7.png)
+![f3c8c8ef7eddeba4351e25682850eb46.png](https://github.com/Mrpai2318/Ethical-Hacking-Notes/blob/main/_resources/c8fa1a57fd674a9fb11ea75f7b73ccd7.png)
 
 ## OSI Model 
 Just like in the TCP/IP model, the data in the OSI model also passes from layer 7 to layer 1 at the sender’s end and from layer 1 to layer 7 at the receiver’s end.
@@ -43,3 +43,5 @@ Just like in the TCP/IP model, the data in the OSI model also passes from layer 
 * Data Link Layer- This layer attaches the source and destination MAC addresses, which are used to identify the hardware of the device. It also calculates checksums for error checking of the metadata that has been attached at all the previous layers, and also to manage the flow of data.
 
 * Physical Layer- This is where the data is converted to hardware friendly signals, like radio signals, light signals, or electric signals, depending on the hardware that is being used for data transfer.
+
+![osimodel](https://github.com/Mrpai2318/Ethical-Hacking-Notes/blob/main/_resources/osimodel.png)
