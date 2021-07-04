@@ -34,8 +34,7 @@ Based on the location of the security expert there are 2 types of testing:-
 1. Internal Testing:- When the security experts tests the application from the premesis of the organisation.
 2. External Testing:- When the security experts tests the application from outside the premesis of the organisation.
 
-https://github.com/Mrpai2318/Ethical-Hacking-Notes/blob/main/_resources/fb3960a398d44844be8d2d08cb61e9f2.png
-
+![img1](https://github.com/Mrpai2318/Ethical-Hacking-Notes/blob/main/_resources/fb3960a398d44844be8d2d08cb61e9f2.png)
 
 
 
