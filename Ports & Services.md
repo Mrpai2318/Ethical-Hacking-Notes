@@ -1,19 +1,19 @@
 Ports & Services
 
 ## Some Common Ports
-![a6b22d62f28f7057edd545559c3a837f.png](../_resources/d10c61834ed44dcdac85badd7371247a.png)
+![a6b22d62f28f7057edd545559c3a837f.png](https://github.com/Mrpai2318/Ethical-Hacking-Notes/blob/main/_resources/d10c61834ed44dcdac85badd7371247a.png)
 
 ## Reserved Port Ranges
-![5cdf4c6bb302c6ec87e1a02bf0885751.png](../_resources/fc4ba3a8d7564581b4fdfeb329995362.png)
+![5cdf4c6bb302c6ec87e1a02bf0885751.png](https://github.com/Mrpai2318/Ethical-Hacking-Notes/blob/main/_resources/fc4ba3a8d7564581b4fdfeb329995362.png)
 
 ## Local And Remote Port
 Local Port:- It is the port on the sending device.
 Remote Port :- It is the port on the recieving device.
 
-![7a4afee2f44c7aee65a7d1313dfc0e57.png](../_resources/9c6be99204a2419fa58140d6f70dd8af.png)
+![7a4afee2f44c7aee65a7d1313dfc0e57.png](https://github.com/Mrpai2318/Ethical-Hacking-Notes/blob/main/_resources/9c6be99204a2419fa58140d6f70dd8af.png)
 
 ## How to check for open ports
-![68bbc4032a523943b15e236556ed252d.png](../_resources/d8851bed8d6d4bd9aa328772a8eea484.png)
+![68bbc4032a523943b15e236556ed252d.png](https://github.com/Mrpai2318/Ethical-Hacking-Notes/blob/main/_resources/d8851bed8d6d4bd9aa328772a8eea484.png)
 
 ## Looking for common ports
 HTTP: HTTP stands for Hyper Text Transfer Protocol and it is used to transfer hyper text, which means web pages.
