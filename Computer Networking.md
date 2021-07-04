@@ -1,4 +1,4 @@
-Computer Networking
+### Computer Networking
 
 ## Classification of Computer Networks
 On the basis of their geographic coverage they are of 3 types:-
