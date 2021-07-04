@@ -7,6 +7,7 @@ Protocols are the set of rules and regulations that device follow to transfer an
 ![094f9328dd94980ca6cf2418d57c90e2.png](https://github.com/Mrpai2318/Ethical-Hacking-Notes/blob/main/_resources/8b7d70fdbb19489eba0bf6fa5a805e31.png)
 
 It has 4 layers to it as follows:-
+
 4. Application Layer:-  It encodes and encrypts the data so that the computer can understand it and then it creates sessions. Sessions are used to establish comunication between 2 devices. It involves signalling to setup and manage communication between two devices. Eg: Brower
 Protocols are FTP, HTTP/HTTPS, Telnet
 
