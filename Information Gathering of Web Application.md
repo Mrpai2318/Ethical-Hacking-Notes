@@ -4,10 +4,10 @@ Information Gathering of Web Application
 It is the process of analyzing all the information gathered and utilizing it to understand the target.
 
 ## What are the common infomation gathered?
-![3bc3ce0b276c5aee0bf52945d5f235e2.png](../_resources/effb2ec885c74b8d847e8981de46aa48.png)
+![3bc3ce0b276c5aee0bf52945d5f235e2.png](https://github.com/Mrpai2318/Ethical-Hacking-Notes/blob/Information-Gathering-%26-Web-Development/_resources/effb2ec885c74b8d847e8981de46aa48.png)
 
 ## What is WhoIS?
-![1f8d4a047eace1d482615656460c8551.png](../_resources/b9793d4c52bb400680fadde4ab032d16.png)
+![1f8d4a047eace1d482615656460c8551.png](https://github.com/Mrpai2318/Ethical-Hacking-Notes/blob/Information-Gathering-%26-Web-Development/_resources/b9793d4c52bb400680fadde4ab032d16.png)
 
 Links to perform WhoIS:-
 https://www.whois.com/whois/
@@ -15,7 +15,7 @@ https://www.whois.com/whois/
 https://whois.icann.org/en
 
 ## What is Reverse IP Lookup?
-![79511f995e08a230305d6adfd59d3021.png](../_resources/57e0e8a0d7dc4dd6bbf2d338289dc416.png)
+![79511f995e08a230305d6adfd59d3021.png](https://github.com/Mrpai2318/Ethical-Hacking-Notes/blob/Information-Gathering-%26-Web-Development/_resources/57e0e8a0d7dc4dd6bbf2d338289dc416.png)
 
 Links to perform Reverse IP Lookup:-
 https://mxtoolbox.com/reverselookup.aspx
