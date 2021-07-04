@@ -1,4 +1,4 @@
-##IP Addressing & NAT 
+### IP Addressing & NAT 
 
 ## What is an NAT?
 ![abf4904de8dce424dc381e807b96d40c.png](https://github.com/Mrpai2318/Ethical-Hacking-Notes/blob/main/_resources/8ecde9766b59408ea66f01aa5441a100.png)
