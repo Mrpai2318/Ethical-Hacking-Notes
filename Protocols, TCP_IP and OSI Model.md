@@ -13,7 +13,7 @@ Protocols are FTP, HTTP/HTTPS, Telnet
 
 3rd Transport Layer:- It adds port number. Protocols are TCP & UDP
 
-2md Network Layer:- It adds senders and receivers address on the data packet. It handles IP addressing, routing and virtual pathing. It adds MAC address of the client and the server to the data packet. Protocols are DHCP, ARP, ICMP.
+2nd Network Layer:- It adds senders and receivers address on the data packet. It handles IP addressing, routing and virtual pathing. It adds MAC address of the client and the server to the data packet. Protocols are DHCP, ARP, ICMP.
 
 1st Physical Layer:- This is where the binary data is coneverted into electrical signals for data transfer. It also checks itself for errors. Eg: Wifi adapter, Protocols are Ethernet, 802.11, DSL.
 
