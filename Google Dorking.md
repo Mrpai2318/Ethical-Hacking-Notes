@@ -1,7 +1,7 @@
 Google Dorking
 
 ## What are Dorks?
-![03545ecdf88c3f307ce0df25effef9c8.png](../_resources/203476d9d930464cbfc6f59f0c66891c.png)
+![03545ecdf88c3f307ce0df25effef9c8.png](https://github.com/Mrpai2318/Ethical-Hacking-Notes/blob/Information-Gathering-%26-Web-Development/_resources/203476d9d930464cbfc6f59f0c66891c.png)
 
 ## Important Google Dorks
 1. site: <Domain> 
